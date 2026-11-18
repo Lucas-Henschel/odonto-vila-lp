@@ -1,0 +1,6 @@
+{
+  "name": "ODONTO VILA — Odontologia em Curitiba",
+  "description": "Consultório odontológico em Curitiba com foco em prevenção, clínica geral, odontopediatria e agendamento prático pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
